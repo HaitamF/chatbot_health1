@@ -64,12 +64,13 @@ text, intent, language
 
 
 ## Performances
-
+````
 | Métrique | Score |
 ----------------------
 | Accuracy | 0.90 |
 | F1 macro | 0.90 |
 
+````
 
 
 ## Stack technique
@@ -82,7 +83,7 @@ text, intent, language
 
 
 ## Structure du projet
-
+````
 chatbot_health/
 ├── backend/
 │   ├── app/
@@ -164,7 +165,8 @@ frontend/
 ├── file_structrure.txt
 ├── README.md
 └── requirements.txt
----
+````
+
 
 ## Installation
 
@@ -203,8 +205,8 @@ json :
   }
 }
 
- ![alt text](question.png)
-![alt text](reponse.png)
+![alt text](image.png)
+![alt text](image-1.png)
 
 
 Le système peut être étendu vers la prise en charge vocale via AtlasIA MoulSot, le diagnostic médical assisté et le support de langues supplémentaires. À terme, il pourrait s'intégrer dans des plateformes de santé digitale marocaines pour améliorer l'accessibilité aux soins.
